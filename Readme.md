@@ -1,3 +1,3 @@
 # The Edk2 Project
-### Get From Xbl.elf
+### Get From xbl.elf
 ### Binaries For ginkgo
